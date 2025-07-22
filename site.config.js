@@ -12,8 +12,8 @@ const CONFIG = {
   },
   projects: [
     {
-      name: ``,
-      href: "",
+      name: `Diffusion(Preparing)`,
+      href: "https://hyunseunglee.vercel.app",
     },
   ],
   // blog setting (required)
