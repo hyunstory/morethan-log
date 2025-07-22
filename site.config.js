@@ -1,21 +1,21 @@
 const CONFIG = {
   // profile setting (required)
   profile: {
-    name: "HyunseungLee",
+    name: "Hyunseung Lee",
     image: "/avatar.png", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
     role: "3D Vision AI / Graphic Engineer",
-    bio: "I develop everything using node.",
+    bio: "",
     email: "hoon00917@gmail.com",
-    linkedin: "hyunstory",
+    linkedin: "hyunseunglee-dreamer",
     github: "hyunstory",
     instagram: "hyunseung_dreamer",
   },
-  projects: [
-    {
-      name: `morethan-log`,
-      href: "https://github.com/morethanmin/morethan-log",
-    },
-  ],
+  // projects: [
+  //   {
+  //     name: `morethan-log`,
+  //     href: "https://github.com/morethanmin/morethan-log",
+  //   },
+  // ],
   // blog setting (required)
   blog: {
     title: "HyunseungLee",
