@@ -8,14 +8,14 @@ const CONFIG = {
     email: "hoon00917@gmail.com",
     linkedin: "hyunseunglee-dreamer",
     github: "hyunstory",
-    instagram: "hyunseung_dreamer",
+    instagram: "",
   },
-  // projects: [
-  //   {
-  //     name: `morethan-log`,
-  //     href: "https://github.com/morethanmin/morethan-log",
-  //   },
-  // ],
+  projects: [
+    {
+      name: ``,
+      href: "",
+    },
+  ],
   // blog setting (required)
   blog: {
     title: "HyunseungLee",
