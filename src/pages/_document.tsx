@@ -12,12 +12,6 @@ class MyDocument extends Document {
             sizes="192x192"
             href="/apple-touch-icon.png"
           ></link>
-          <meta
-            httpEquiv="cache-control"
-            content="no-cache, no-store, must-revalidate"
-          />
-          <meta httpEquiv="pragma" content="no-cache" />
-          <meta httpEquiv="expires" content="0" />
           <link
             rel="alternate"
             type="application/rss+xml"
