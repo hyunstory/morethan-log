@@ -9,15 +9,10 @@ type Props = {
   readingProgress: number
 }
 
-const Header: React.FC<Props> = ({ fullWidth, readingProgress  }) => {
+const Header: React.FC<Props> = ({ fullWidth, readingProgress }) => {
   return (
     <StyledWrapper>
-      <div data-full-width={fullWidth} className="container">
-        <Logo />
-        <div className="nav">
-          <ThemeToggle />
-          <NavBar />
-        <HeaderWrapper>
+      <HeaderWrapper>
         <div data-full-width={fullWidth} className="container">
           <Logo />
           <div className="nav">
