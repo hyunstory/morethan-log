@@ -13,7 +13,7 @@ const CONFIG = {
   projects: [
     {
       name: `Diffusion(Preparing)`,
-      href: "https://hyunseunglee.vercel.app",
+      href: "https://hyunseunglee.dev",
     },
   ],
   // blog setting (required)
@@ -24,7 +24,7 @@ const CONFIG = {
   },
 
   // CONFIG configration (required)
-  link: "https://hyunseunglee.vercel.app",
+  link: "https://hyunseunglee.dev",
   since: 2025, // If leave this empty, current year will be used.
   lang: "en-US", // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES', 'ko-KR']
   ogImageGenerateURL: "https://og-image-korean.vercel.app", // The link to generate OG image, don't end with a slash
